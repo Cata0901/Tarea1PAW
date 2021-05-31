@@ -32,7 +32,7 @@ namespace Tarea1_CatalinaDatoMuñoz
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hola, yo soy Catalina Dato y esta es la tarea 1 de Progra Avanzada Web");
+                    await context.Response.WriteAsync("Hola, yo soy Catalina Dato");
                 });
             });
         }

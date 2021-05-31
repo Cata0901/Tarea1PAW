@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz.csproj": {}
+    "C:\\Users\\Catalina\\source\\repos\\Tarea1PAW\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz.csproj": {}
   },
   "projects": {
-    "D:\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz.csproj": {
+    "C:\\Users\\Catalina\\source\\repos\\Tarea1PAW\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz.csproj",
+        "projectUniqueName": "C:\\Users\\Catalina\\source\\repos\\Tarea1PAW\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz.csproj",
         "projectName": "Tarea1_CatalinaDatoMuñoz",
-        "projectPath": "D:\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz.csproj",
-        "packagesPath": "C:\\Users\\Brayan\\.nuget\\packages\\",
-        "outputPath": "D:\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz\\obj\\",
+        "projectPath": "C:\\Users\\Catalina\\source\\repos\\Tarea1PAW\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz.csproj",
+        "packagesPath": "C:\\Users\\Catalina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Catalina\\source\\repos\\Tarea1PAW\\Tarea1_CatalinaDatoMuñoz\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Brayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Catalina\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -53,6 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -61,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }

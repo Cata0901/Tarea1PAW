@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NGxOA8Xywab1dkzeEYg8xaZ1ng1tq7iEvowaewTlivdoWXKaTTSI/+OXhxu58AUMzVYwn0epwaLUMp+aeHYfbg==",
+  "dgSpecHash": "CnSsUi3VniBby2M7eg4l2es8IsJGCN+r0Q2K1DgNH7M0sSdYT92p46hZUxY6n1TOA7Yw1d48PZ0c3ga9VabQzQ==",
   "success": true,
-  "projectFilePath": "D:\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Catalina\\source\\repos\\Tarea1PAW\\Tarea1_CatalinaDatoMuñoz\\Tarea1_CatalinaDatoMuñoz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Catalina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }
